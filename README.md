@@ -1,5 +1,4 @@
-# ITF-lab 2021
+# ITF-Lab2021
 
-
-## Author
+## Authour
 กฤตภาส ดวงครุฑ 64070123
